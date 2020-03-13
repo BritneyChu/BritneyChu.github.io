@@ -1,2 +1,2 @@
-# BritneyChu.github.io
+# BritneyChu.github.io/index.html
 Profile and CV
